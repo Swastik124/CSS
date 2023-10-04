@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+}
+div{
+
+    background-color: aqua;
+    height: 200px;
+    width: 500px;
+    border: 10px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: auto;
+}
+button{
+    border: 5px solid black;
+    padding: 6px;
+    border-radius: 50px;
+}
